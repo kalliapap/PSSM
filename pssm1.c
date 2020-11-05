@@ -1,6 +1,6 @@
 /*
 Papanastou Kalliopi
-Ergasia: Kataskeuh pssm apo pollaplh stoixish prwteinwn
+PSSM construction from multiple protein alignment
 Input File: fasta format
 */
 #include <stdio.h>
